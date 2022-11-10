@@ -1,6 +1,6 @@
 # Hello Rust
 
-Simple Rust app which includes VS Code debugging support on VS Code for Mac
+Simple Rust app which shows how to debug a Rust program in Visual Studio Code
 
 ## Initial Setup for Rust Debugging in VS Code
 
